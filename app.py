@@ -1297,7 +1297,7 @@ def QU9IRntMMWYzXzByX0QzNHRoXw():
 def VGgzX0c0bTNfMGZfQ2gwMWMzc180bmRf():
     return _empty_204()
 
-@app.get("VGgzX0NoMDFjM19XNHNfTjN2M3JfWTB1cnN9")
+@app.get("/VGgzX0NoMDFjM19XNHNfTjN2M3JfWTB1cnN9")
 def VGgzX0NoMDFjM19XNHNfTjN2M3JfWTB1cnN9():
     return _empty_204()
 
